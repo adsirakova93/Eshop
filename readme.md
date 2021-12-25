@@ -1,3 +1,0 @@
-#HI
-/dni
-# hello
