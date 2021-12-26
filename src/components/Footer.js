@@ -18,37 +18,37 @@ const currency = ["$ - USD", "₹ - INR", "£ - GBP", "€ - EUR", "¥ - JPY"];
 const footerLinks = [
   {
     title: "Get to Know Us",
-    list: ["About Eshop", "Connect with Us", "Eshop Cares", "Gift a Smile"],
+    list: ["About eshop", "Connect with Us", "eshop Cares", "Gift a Smile"],
   },
   {
     title: "Make Money with Us",
     list: [
-      "Sell products on Eshop",
-      "Sell apps on Eshop",
+      "Sell products on eshop",
+      "Sell apps on eshop",
       "Become an Affiliate",
       "Advertise Your Products",
       "Self-Publish with Us",
-      "Host an Eshop Hub",
+      "Host an eshop Hub",
       "› See More",
     ],
   },
   {
-    title: "Eshop Payment",
+    title: "eshop Payment",
     list: [
-      "Eshop Business Card",
+      "eshop Business Card",
       "Shop with Points",
       "Reload Your Balance",
-      "Eshop Currency Converter",
+      "eshop Currency Converter",
     ],
   },
   {
     title: "Let Us Help You",
     list: [
-      "Eshop and COVID-19",
+      "eshop and COVID-19",
       "Shipping Rates & Policies",
       "Returns & Replacements",
       "Manage Your Devices",
-      "Eshop Assistant",
+      "eshop Assistant",
     ],
   },
 ];
