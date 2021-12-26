@@ -1,6 +1,6 @@
 import React, { useState,useEffect, forwardRef } from 'react'
 import './CartItem.css'
-import RemoveshoppingCartIcon from '@material-ui/icons/RemoveshoppingCart';
+import RemoveeshoppingCartIcon from '@material-ui/icons/RemoveeshoppingCart';
 
 import { useStateValue } from './StateProvider';
 
@@ -79,7 +79,7 @@ const removeItem=()=>{
                      <p>{quantity}</p>
                      <button onClick={addQuantity}>+</button>
                    
-                     <RemoveshoppingCartIcon style={{ background: "red" ,color:"white", margin:"0 10px" , borderRadius: "4px" ,padding:"2px"}} onClick={removeItem} />
+                     <RemoveeshoppingCartIcon style={{ background: "red" ,color:"white", margin:"0 10px" , borderRadius: "4px" ,padding:"2px"}} onClick={removeItem} />
                  </div>
                     
              </div>
