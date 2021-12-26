@@ -16,7 +16,7 @@ const Sidebar = () => {
     <div className="sidebar">
       <div className="sidebar__Logo">
         <img
-          src="https://raw.githubusercontent.com/santdas36/eshop-ish/e984964373a1031ccf97b840d4b8007e3d54dfed/src/assets/icon.svg"
+          src="https://raw.githubusercontent.com/santdas36/amazon-ish/e984964373a1031ccf97b840d4b8007e3d54dfed/src/assets/icon.svg"
           alt=""
         />
       </div>
