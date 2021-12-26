@@ -1,6 +1,6 @@
 import React, { useState,useEffect, forwardRef } from 'react'
 import './CartItem.css'
-import RemoveeshoppingCartIcon from '@material-ui/icons/RemoveeshoppingCart';
+import RemoveShoppingCartIcon from '@material-ui/icons/RemoveShoppingCart';
 
 import { useStateValue } from './StateProvider';
 
