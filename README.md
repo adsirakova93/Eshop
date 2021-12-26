@@ -16,6 +16,7 @@ Public part
 This part of the project is designed for non-registered users. These users have access to the following:
 
 Home -> Main page pointing to the initial appearance of the project. Contains information about the offered goods as well as the possibility to redirect to other pages.
+
 Cart -> Shows the current basket with selected items. The non-registered users can only review, but without finalizing the purchase.
 Orders -> The page opens the Log In form for user login / registration.
 Login -> The page opens the Log In form for user login / registration.
