@@ -5,7 +5,7 @@ const resolve = (dir) =>{
 }
 module.exports={
     entry:[
-        '@babel/polyfill'. resolve('src/index.js')
+        '@babel/polyfill', resolve('src/index.js')
     ],
     output:{
         path: resolve('dist'),
