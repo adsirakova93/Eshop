@@ -1,0 +1,61 @@
+.checkout {
+    margin-top: 15vh;
+    margin-left: 10vw;
+    margin-right: 1vw;
+    padding: 10px;
+
+    height: 100vh;
+    width: 100vw;
+
+
+}
+
+.checkout__container {
+    display: flex;
+    width: 100%;
+    margin-top: 18px;
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+
+}
+
+.checkout__products {
+    flex: 0.5;
+
+    margin: 10px;
+
+
+}
+
+.checkout__subtotal {
+    background-color: white;
+    flex: 0.5;
+    margin: 0 10px;
+    border-radius: 10px;
+    height: 250px;
+    padding-bottom: 10px;
+
+}
+
+@media (max-width: 550px) {
+
+    .checkout {
+        padding-left: 40px;
+
+    }
+
+    .checkout__container {
+        flex-direction: column;
+
+    }
+
+    .checkout__header {
+        padding-left: 20px;
+    }
+
+    .checkout__subtotal {
+        margin-bottom: 30px;
+    }
+}
