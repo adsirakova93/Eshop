@@ -79,7 +79,7 @@ const removeItem=()=>{
                      <p>{quantity}</p>
                      <button onClick={addQuantity}>+</button>
                    
-                     <RemoveeshoppingCartIcon style={{ background: "red" ,color:"white", margin:"0 10px" , borderRadius: "4px" ,padding:"2px"}} onClick={removeItem} />
+                     <RemoveShoppingCartIcon style={{ background: "red" ,color:"white", margin:"0 10px" , borderRadius: "4px" ,padding:"2px"}} onClick={removeItem} />
                  </div>
                     
              </div>
